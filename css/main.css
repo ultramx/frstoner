@@ -19,7 +19,7 @@
 
 ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
-  color: #777777;
+  color: #777777 !important;
   font-weight: 300;
 }
 
